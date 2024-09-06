@@ -20,6 +20,8 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
   
 ### :computer: Programming languages and tools
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboul&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"></p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=aboul&show_icons=true&hide" alt="Github Aboul Stats" align="right">
 
 <p>
@@ -39,6 +41,7 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
@@ -48,6 +51,7 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </p>
+
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
