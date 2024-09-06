@@ -21,9 +21,15 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ### :computer: Programming languages and tools
 
 <table>
-<tr>
+<tr style="
+    border-collapse: collapse;
+    border: 0;
+">
 
-<td valign="top" width="60%">
+<td valign="top" width="60%" style="
+    border-collapse: collapse;
+    border: 0;
+">
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +54,10 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </td>
-<td valign="top">
+<td valign="top" style="
+    border-collapse: collapse;
+    border: 0;
+">
 
 ![Github Aboul Stats](https://github-readme-stats.vercel.app/api?username=aboul&show_icons=true&hide)
 </td>
