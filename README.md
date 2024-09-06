@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aboul)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abelbrien/)
 
-Welcome to my Github page! I am Abel, web frontend developer since 2010.   
+Welcome to my Github page! I am Abel, web frontend developer since 2010.
 
 ### 🌱 Things I did
 
