@@ -53,7 +53,7 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ![Github Aboul Stats](https://github-readme-stats.vercel.app/api?username=aboul&show_icons=true&hide)
 </td>
 </tr>
-</div>
+</table>
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
