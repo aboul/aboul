@@ -23,7 +23,7 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aboul&show_icons=true&theme=radical)
 
 <p align="right">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aboul&layout=compact&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aboul&layout=compact&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p>
