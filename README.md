@@ -14,6 +14,7 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 
 ### :muscle: Things I am doing or I'll do
 
+- Working on my self-hosted homelab (docker-compose/komodo and many services)
 - Play with Symfony
 - Learn Sylius development
 - Be more active on Github (as you'll see above, I just started :bowtie: )
@@ -28,9 +29,13 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
 
 <p>
 
+
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-242424?style=for-the-badge&logo=Vite&logoColor=white)
 
 ![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge)
 ![Sylius](https://img.shields.io/badge/Sylius-27ae60?logo=symfony&logoColor=white&style=for-the-badge)
