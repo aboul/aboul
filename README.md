@@ -20,9 +20,11 @@ Welcome to my Github page! I am Abel, web frontend developer since 2010.
   
 ### :computer: Programming languages and tools
 
-<p><img src="https://githubreadmestatsfast.vercel.app/p/api/top-langs/?username=aboul&layout=compact&theme=solarized-dark" alt="Most Used Languages"></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aboul&show_icons=true&theme=radical)
 
-<img src="https://githubreadmestatsfast.vercel.app//api?username=aboul&show_icons=true&hide&theme=solarized-dark" alt="Github Aboul Stats" align="right">
+<p align="right">
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aboul&layout=compact&theme=radical)
+</p>
 
 <p>
 
